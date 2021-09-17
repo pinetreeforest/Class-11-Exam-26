@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="E1804652-D870-495F-8DE7-A0676DADC15B" version="0">
+	<info>
+		<title>Exam-26</title>
+		<description/>
+	</info>
+	<files index="id41" thumbnail="id37" totalSize="2267578">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/html5-unsupported.html</file>
+		<file id="id9">data/html5.png</file>
+		<file id="id10">data/images/img-06d26d083b554694345b98a47b86a72d94dcbb28.jpg</file>
+		<file id="id11">data/images/img-13cbfee659a4d2c1e31dfd410cf4eba2b72777fb.jpg</file>
+		<file id="id12">data/images/img-14f8111acfd2d8da34c639fceac51ff1a6c26b16.jpg</file>
+		<file id="id13">data/images/img-21458d8cb21076ebece3eff0e29bb33a6bb45990.png</file>
+		<file id="id14">data/images/img-2cf601502c5af430bf450be977c1b371081cbd6f.png</file>
+		<file id="id15">data/images/img-320393afaa7d910b6a9cbcabe80247cee88a0058.jpg</file>
+		<file id="id16">data/images/img-38fffddedc41d8d6c581ec3b80fd3453e6d94b4f.jpg</file>
+		<file id="id17">data/images/img-43fefa1a8ff4fcda4cc4913063b09404146911e3.jpg</file>
+		<file id="id18">data/images/img-47da468e45f0db7dbb454612e6c098abfe6a0da3.jpg</file>
+		<file id="id19">data/images/img-4b55f72ebb2cad8ede504f8bef03d00ee0383834.png</file>
+		<file id="id20">data/images/img-5509510273b29be8e4396df6e85217f9aa746641.jpg</file>
+		<file id="id21">data/images/img-69a9d9c6cab360ff6b03da3e996c62c3d082755f.png</file>
+		<file id="id22">data/images/img-801d5b0ae7fcace0e49e59e31fe61137260e2d2a.png</file>
+		<file id="id23">data/images/img-80359e9fa8495c3d9e3328a2b52d53a97a0b28d3.jpg</file>
+		<file id="id24">data/images/img-925d222badad4c9294378ba78dfa36cb212345f4.png</file>
+		<file id="id25">data/images/img-974e444074b0a08ee2fd2831eccd6e43399e8888.png</file>
+		<file id="id26">data/images/img-a38291241e79df16931e9c10eb5229b98c4cd6ca.png</file>
+		<file id="id27">data/images/img-a4bc3fef5023b2c5af68ee2c8caefa23df67b353.png</file>
+		<file id="id28">data/images/img-bda220ba4be858ff4bfd5d34d20b64f7793dfb23.jpg</file>
+		<file id="id29">data/images/img-c88ec70193bbb9663963981df4dc705767e2dea1.jpg</file>
+		<file id="id30">data/images/img-d33bf8294f98c8622378fb58e0a1ede4bd7d526b.jpg</file>
+		<file id="id31">data/images/img-db3381fd2d9d6b0c29efe5c3037fb9b8feeee43e.jpg</file>
+		<file id="id32">data/images/img-e2319419077555a172083b0188c4439741f5e784.png</file>
+		<file id="id33">data/images/img-f6cf99d52eb01b05880421bf61f3213abea23f52.png</file>
+		<file id="id34">data/images/img-f70ff93aeae00276cd9cd300792aad5152356bf2.jpg</file>
+		<file id="id35">data/ismplayer/app_store2x.png</file>
+		<file id="id36">data/ismplayer/play.svg</file>
+		<file id="id37">data/ismplayer/preview.png</file>
+		<file id="id38">data/ismplayer/style.css</file>
+		<file id="id39">data/ismplayer/style_mini.css</file>
+		<file id="id40">data/player.js</file>
+		<file id="id41">index.html</file>
+		<file id="id42">ismplayer.html</file>
+		<file id="id43">preview.png</file>
+	</files>
+</presentation>
+
